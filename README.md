@@ -1,6 +1,4 @@
-Below is a sample **README** file in English that explains how to build, run, and test your CoderamaInterview project, including details about its purpose, architecture, and key features such as serializers, repositories, service layer, and response caching. Feel free to customize any sections to match your project’s structure or requirements.
 
----
 
 # CoderamaInterview Project
 
